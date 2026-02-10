@@ -2,7 +2,7 @@
 
 **Desenvolvedor em formação | Ciência da Computação**
 
-Me chamo João Paulo, tenho 19 anos (20 este ano) e sou estudante de **Ciência da Computação**.  
+Me chamo João Paulo, tenho 19 anos e sou estudante de **Ciência da Computação**.  
 Atualmente estou focado em **construir base sólida em programação**, aplicando lógica, estrutura de dados e desenvolvimento web através de projetos práticos.
 
 Meu objetivo é evoluir tecnicamente, ganhar experiência real e, no curto/médio prazo, **transformar programação em fonte de renda**.
