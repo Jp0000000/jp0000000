@@ -40,7 +40,7 @@ Estou construindo uma **base sólida em programação**, aplicando lógica, estr
 ### 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,csharp,git,postgres&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,cs,git,postgres&perline=8" />
 </p>
 
 <div align="center">
